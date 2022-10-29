@@ -2,6 +2,8 @@
 
 *IOC information of detected groups in the Ransomware Report generated between 17.10.2022 - 28.10.2022.*
 
+For Details Report: 
+
 ## LockBit 3.0
 
 | IOC |
